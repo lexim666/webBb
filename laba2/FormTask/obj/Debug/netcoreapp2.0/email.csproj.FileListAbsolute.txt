@@ -9,3 +9,14 @@ D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\ne nashe\webDev-master\2 LR\FormT
 D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\ne nashe\webDev-master\2 LR\FormTask\obj\Debug\netcoreapp2.0\email.dll
 D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\ne nashe\webDev-master\2 LR\FormTask\obj\Debug\netcoreapp2.0\email.pdb
 D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\ne nashe\webDev-master\2 LR\FormTask\obj\Debug\netcoreapp2.0\email.csprojResolveAssemblyReference.cache
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\bin\Debug\netcoreapp2.0\email.deps.json
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\bin\Debug\netcoreapp2.0\email.runtimeconfig.json
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\bin\Debug\netcoreapp2.0\email.runtimeconfig.dev.json
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\bin\Debug\netcoreapp2.0\email.dll
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\bin\Debug\netcoreapp2.0\email.pdb
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\obj\Debug\netcoreapp2.0\email.csprojResolveAssemblyReference.cache
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\obj\Debug\netcoreapp2.0\email.csproj.CoreCompileInputs.cache
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\obj\Debug\netcoreapp2.0\email.AssemblyInfoInputs.cache
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\obj\Debug\netcoreapp2.0\email.AssemblyInfo.cs
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\obj\Debug\netcoreapp2.0\email.dll
+C:\Users\MARINA\Documents\GitHub\webBb\laba2\FormTask\obj\Debug\netcoreapp2.0\email.pdb

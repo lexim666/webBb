@@ -1,0 +1,22 @@
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+C:\Users\MARINA\Documents\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojResolveAssemblyReference.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb
