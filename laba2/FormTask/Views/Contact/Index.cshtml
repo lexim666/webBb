@@ -1,0 +1,59 @@
+﻿@model FormTask.Models.MessageModel
+
+@{
+    ViewBag.Title = "Email-ZubarevaMironova";
+    Layout = "_Layout";
+}
+
+<div class="container-fluid">
+    <div class="jumbotron">
+        <div class="container">
+            <h2>Отправьте нам письмо !</h2>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form id="feedback" action="/Contact/Send" method="POST">
+                <div class="form">
+                    <div class="form-group">
+                        <label asp-for="Address" class="control-label" for="AddressInput">Email</label>
+                        <input asp-for="Address" id="AddressInput" type="email" class="form-control" placeholder="Введите email">
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Topic" class="control-label" for="TopicInput">Тема</label>
+                        <input asp-for="Topic" id="TopicInput" type="text" class="form-control" placeholder="Введите тему">
+                        <span asp-validation-for="Topic" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Text" class="control-label" for="TextInput">Сообщение</label>
+                        <textarea asp-for="Text" id="TextInput" class="form-control" rows="5"> </textarea>
+                        <span asp-validation-for="Text" class="text-danger"> </span>
+                    </div>
+                    <button type="submit" class="btn btn-default pull-right">Отправить</button>
+                </div>
+            </form>
+            @if (ViewBag.ErrorMessage != null)
+            {
+                <h1>Ошибка:</h1>
+                <div class="alert-info">
+                    <p>@Html.Raw(ViewBag.ErrorMessage)</p>
+                </div>
+            }
+            @if (ViewBag.Success != null && ViewBag.Success)
+            {
+                <h1>Победа!</h1>
+                <div class="alert-success">
+                    <p class="text-success">Сообщение доставлено!</p>
+                </div>
+            }
+            <span class="clearfix"></span>
+        </div>
+
+    </div>
+</div>
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
