@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\aaa-marishok\\aaaaStudLife\\4 kurs\\GolubKurly\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\MARINA\\Documents\\GitHub\\webBb\\laba1\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "D:\\aaa-marishok\\aaaaStudLife\\4 kurs\\GolubKurly\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\MARINA\\Documents\\GitHub\\webBb\\laba1\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\MARINA-ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\aaa-marishok\\aaaaStudLife\\4 kurs\\GolubKurly\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\MARINA\\Documents\\GitHub\\webBb\\laba1\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
