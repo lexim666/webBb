@@ -1,0 +1,44 @@
+C:\Users\gabma\source\repos\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.deps.json
+C:\Users\gabma\source\repos\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.runtimeconfig.json
+C:\Users\gabma\source\repos\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.runtimeconfig.dev.json
+C:\Users\gabma\source\repos\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.dll
+C:\Users\gabma\source\repos\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.csprojResolveAssemblyReference.cache
+C:\Users\gabma\source\repos\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\gabma\source\repos\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.AssemblyInfoInputs.cache
+C:\Users\gabma\source\repos\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.AssemblyInfo.cs
+C:\Users\gabma\source\repos\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.pdb
+C:\Users\gabma\source\repos\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.dll
+C:\Users\gabma\source\repos\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.pdb
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.deps.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.runtimeconfig.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.runtimeconfig.dev.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.dll
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\bin\Debug\netcoreapp2.0\LR3.pdb
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.csprojResolveAssemblyReference.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.csproj.CoreCompileInputs.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.AssemblyInfoInputs.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.AssemblyInfo.cs
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.dll
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\ktoto\LR3\LR3\obj\Debug\netcoreapp2.0\LR3.pdb
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\bin\Debug\netcoreapp2.0\LR3.deps.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\bin\Debug\netcoreapp2.0\LR3.runtimeconfig.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\bin\Debug\netcoreapp2.0\LR3.runtimeconfig.dev.json
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\bin\Debug\netcoreapp2.0\LR3.dll
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\bin\Debug\netcoreapp2.0\LR3.pdb
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\obj\Debug\netcoreapp2.0\LR3.csprojResolveAssemblyReference.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\obj\Debug\netcoreapp2.0\LR3.csproj.CoreCompileInputs.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\obj\Debug\netcoreapp2.0\LR3.AssemblyInfoInputs.cache
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\obj\Debug\netcoreapp2.0\LR3.AssemblyInfo.cs
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\obj\Debug\netcoreapp2.0\LR3.dll
+D:\aaa-marishok\aaaaStudLife\4 kurs\GolubKurly\3laba\lena\LR3\obj\Debug\netcoreapp2.0\LR3.pdb
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\bin\Debug\netcoreapp2.0\LR3.deps.json
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\bin\Debug\netcoreapp2.0\LR3.runtimeconfig.json
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\bin\Debug\netcoreapp2.0\LR3.runtimeconfig.dev.json
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\bin\Debug\netcoreapp2.0\LR3.dll
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\bin\Debug\netcoreapp2.0\LR3.pdb
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\obj\Debug\netcoreapp2.0\LR3.csprojResolveAssemblyReference.cache
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\obj\Debug\netcoreapp2.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\obj\Debug\netcoreapp2.0\LR3.AssemblyInfoInputs.cache
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\obj\Debug\netcoreapp2.0\LR3.AssemblyInfo.cs
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\obj\Debug\netcoreapp2.0\LR3.dll
+C:\Users\MARINA\Documents\GitHub\webBb\laba3\LR3\obj\Debug\netcoreapp2.0\LR3.pdb
